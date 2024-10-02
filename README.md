@@ -11,7 +11,7 @@ An in-depth experiments of various popular experiments
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+khatkarsidhant@gmail.com
 ```
 
 
